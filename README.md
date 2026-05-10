@@ -1,1 +1,1 @@
-# -cost-accounting-tool
+# cost-accounting-tool
